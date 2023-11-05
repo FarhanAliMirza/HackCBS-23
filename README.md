@@ -2,7 +2,7 @@
 
 # Sab Ki Pathshaala
 
-**Live Demo**: [sabkipathshaala.study](https://learning-journey.reluvate.tech/gallery)
+**Live Demo**: [sabkipathshaala.study](https://sabkipathshaala.study)
 
 ###### Click [here](https://learning-journey.reluvate.tech/gallery) if link does not work
 
